@@ -1,4 +1,4 @@
-# Neural Network Assignment
+# Neural Network - IMPLEMENTATION
 This repository contains a Jupyter Notebook implementing a neural network as part of an academic assignment. The notebook includes data preprocessing, model definition, training, evaluation, and result visualization. 
 
 It is designed to provide insights into the neural network workflow, from dataset preparation to performance assessment.
